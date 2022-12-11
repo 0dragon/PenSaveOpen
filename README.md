@@ -12,7 +12,7 @@
 ![6](https://user-images.githubusercontent.com/86341272/206889567-44bb38ad-1a52-438b-ad4e-77d1f1ee8c57.PNG)
 
 #### 실행 영상
-https://youtu.be/KUsjFttSGFE
+![1번 실행영상](https://user-images.githubusercontent.com/86341272/206890250-a7d8a5fa-72aa-41ea-9623-3dce32df0f7f.gif)
 
 ---
 ### 2. 소스코드
